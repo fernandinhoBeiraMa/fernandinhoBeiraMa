@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernano Bruntti</h1>
+<h1 align="center">Hi 👋, I'm Fernando Bruntti</h1>
 <h3 align="center">I am iniciator programer from Brazil</h3>
 
 - 🌱 I’m currently learning **aprendendo a usar o unreal engine**
